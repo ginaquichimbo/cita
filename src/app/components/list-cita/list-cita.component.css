@@ -1,0 +1,10 @@
+.letra{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2rem;
+}
+.card{
+    margin: opx 40px;
+}
+span{
+    font-weight: 600;
+}
